@@ -1,0 +1,6 @@
+{
+    "name":"Turkcoin",
+ "symbol":"ATATURK",
+ "image":"https://github.com/Quettan/a/blob/main/ATALOG.png?raw=true",
+ "description":"The future of Turkey",
+ "extensions":{"website":"https://turkcoin.tech","twitter":"https://twitter.com/turkcoinsol","telegram":"https://t.me/turkcoinATA"},"tags":["turkey"],"creator":{"name":"AK","site":"turkcoin.tech"}}
